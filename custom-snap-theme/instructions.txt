@@ -1,0 +1,7 @@
+Install
+
+snap install pdcommonthemes-breeze-honey.snap --dangerous
+
+Apply
+
+for i in $(snap connections | grep gtk-common-themes:gtk-3-themes | awk '{print $2}'); do sudo snap connect $i pd-common-themes:gtk-3-themes; done
