@@ -1,0 +1,13 @@
+style "toplevel_hack" {
+  engine "adwaita" {}
+}
+
+style "chrome_entry" {
+  base[NORMAL]      = @base_color
+  base[INSENSITIVE] = @base_color
+}
+
+style "vim_notebook" {
+  bg[NORMAL] = @base_color
+  bg[ACTIVE] = @insensitive_bg_color
+}

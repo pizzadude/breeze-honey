@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Breeze-Honey Look And Feel
+Name=Breeze-Honey
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=l4k1987@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Breeze-Honey
+X-KDE-PluginInfo-Version=1.1
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1345853,kns://plasma-themes.knsrc/api.kde-look.org/1345855,kns://aurorae.knsrc/api.kde-look.org/1345852,kns://icons.knsrc/api.kde-look.org/1345847,kns://icons.knsrc/api.kde-look.org/1345846,kns://icons.knsrc/api.kde-look.org/1281798,kns://icons.knsrc/api.kde-look.org/1298508,kns://wallpaper.knsrc/api.kde-look.org/1345466,kns://wallpaper.knsrc/api.kde-look.org/1244264,kns://wallpaper.knsrc/api.kde-look.org/1308584,kns://wallpaper.knsrc/api.kde-look.org/1378553,kns://sddmtheme.knsrc/api.kde-look.org/1345849,kns://sddmtheme.knsrc/api.kde-look.org/1345850

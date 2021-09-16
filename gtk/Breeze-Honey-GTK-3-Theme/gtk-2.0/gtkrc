@@ -1,0 +1,28 @@
+# Text/base
+gtk-color-scheme = "text_color:white\nbase_color:#040b1e"
+# Foreground/background
+gtk-color-scheme = "fg_color:#a1b4ba\nbg_color:#040b1e"
+# Selected foreground/background
+gtk-color-scheme = "selected_fg_color:#ffffff\nselected_bg_color:#530053"
+# Insensitive foreground/background
+gtk-color-scheme = "insensitive_fg_color:#183f47\ninsensitive_bg_color:#040b1e"
+# Menus
+gtk-color-scheme = "menu_color:#040d23"
+# Links
+gtk-color-scheme = "link_color:#530053\nvisited_link_color:#530053"
+# Treeview headers
+gtk-color-scheme = "column_header_color:#eef8f9\nhover_column_header_color:#e0f1f4"
+# Window decoration
+gtk-color-scheme = "window_color:#040b1e"
+# Tooltips
+gtk-color-scheme = "tooltip_fg_color:#ffffff\ntooltip_bg_color:#061435"
+
+# Set GTK settings
+gtk-auto-mnemonics              = 1
+gtk-primary-button-warps-slider = 1
+
+# And hand over the control to the theme files
+include "main.rc"
+include "apps.rc"
+include "hacks.rc"
+include "hacks-dark.rc"
