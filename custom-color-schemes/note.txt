@@ -1,0 +1,1 @@
+Since Breeze-Honey doesn't work well with VirtualBox or KeepassXC due to a Qt bug, I made Sweet-Dark Honey color scheme.
